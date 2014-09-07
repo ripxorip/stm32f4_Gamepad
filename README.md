@@ -9,7 +9,7 @@ Download and install the following software for your platform
   * The gcc-arm-none-eabi toolchain.
   * openOCD.
   * st-link (optional)
-  * The stm32f4 firmware - [Download](http://www.st.com/web/en/catalog/tools/PF257904#)
+  * The stm32f4 firmware - [Download from ST](http://www.st.com/web/en/catalog/tools/PF257904#)
   * Specify the folder of the firmware in the Makefile and run make.
   * Upload the resuling binary to the board using openOCD or st-link.
 
