@@ -17,7 +17,7 @@ Usage
 -----
 Simply connect the board using both USB ports. The mini USB is used for supplying the board with power and the micro for sending the HID reports to the PC.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZgL-Va6dkrA
 " target="_blank"><img src="http://img.youtube.com/vi/ZgL-Va6dkrA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
