@@ -1,7 +1,7 @@
 STM32f4 Gamepad
 ===============
 
-This is my USB firmware for the stm32f4-discovery board. It is based on the mouse example provided by ST by modifying the [usbd_hid_core.c](https://github.com/guitarfriiik/stm32f4_Gamepad/blob/master/usbd_hid_core.c) and overriding the original file at '$FW/Libraries/STM32_USB_Device_Library/Class/hid/usbd_hid_core.c'. Since it is using the HID class sources there is no need for extra drivers when running OS X / Linux. In this example I am using a Sega Genesis controller connected to GPIOA.
+This is my USB firmware for the stm32f4-discovery board. It is based on the mouse example provided by ST by modifying the [usbd_hid_core.c](https://github.com/guitarfriiik/stm32f4_Gamepad/blob/master/usbd_hid_core.c) and overriding the original file at *$FW/Libraries/STM32_USB_Device_Library/Class/hid/usbd_hid_core.c*. Since it is using the HID class sources there is no need for extra drivers when running OS X / Linux. In this example I am using a Sega Genesis controller connected to GPIOA.
 
 Compilation
 -----------
